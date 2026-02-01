@@ -1,10 +1,10 @@
 # WEB103 Prework - *Creatorverse*
 
-Submitted by: **👉🏿 your name here**
+Submitted by: **👉🏿 Bethel Zegeye**
 
 About this web app: **Creatorverse is a full-stack React application that allows users to create, read, update, and delete their favorite content creators. Built with React, Vite, React Router, and Supabase, this app provides a beautiful dark space-themed interface to manage and discover content creators across various platforms like YouTube and Twitter.**
 
-Time spent: **👉🏿 X** hours
+Time spent: **👉🏿 2** hours
 
 ## Required Features
 
