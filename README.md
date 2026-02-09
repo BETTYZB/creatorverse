@@ -52,7 +52,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://image2url.com/r2/default/gifs/1770618133763-ab7a9a2e-aa45-41ae-b516-0f3e576e11f6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='https://image2url.com/r2/default/gifs/1770618216273-ca6e2ced-11df-4d4c-a8d6-1dd61ef645a0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with ...  👉🏿 GIF tool here
