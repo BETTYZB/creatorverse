@@ -52,7 +52,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://image2url.com/r2/default/gifs/1770616064573-ede6bd52-bc7c-4bd1-94ce-11d50283039f.gif' />
+👉🏿<img src='https://image2url.com/r2/default/gifs/1770617061521-11148fa3-4e51-4580-b6c5-6dd459c03924.gif' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
